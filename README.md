@@ -1,6 +1,6 @@
 # Deep Text Project
 
-This project is in the scope of the course Deep Text at Unica. The aim of this project is to generate new dinosauer name given a dataset of existing dinosaur name. We have to implement 2 models:
+The aim of this project is to generate new dinosaur name given a dataset of existing dinosaur name. We have to implement 2 models:
 1. The n-gram model
 2. A deep learning model of any kind
 
